@@ -20,21 +20,21 @@ Date:
     Year: 2023
 
 These three commands will fetch the corresponding data
-    Get Mean Temperature
-    Max Wind Speed
-    Precipitation Sum
+   - Get Mean Temperature
+   - Max Wind Speed
+   - Precipitation Sum
 
 These are retrieved from the weather data site. Once gathered the following
 weather metrics are calculated.
-    Five-Year Mean Temperature
-    Five-Year Minimum Temperature
-    Five-Year Maximum Temperature
-    Five-Year Average Wind Speed
-    Five-Year Minimum Wind Speed
-    Five-Year Maximum Wind Speed
-    Five-Year Total Precipitation
-    Five-Year Minimum Precipitation
-    Five-Year Maximum Precipitation
+   - Five-Year Mean Temperature
+   - Five-Year Minimum Temperature
+   - Five-Year Maximum Temperature
+   - Five-Year Average Wind Speed
+   - Five-Year Minimum Wind Speed
+   - Five-Year Maximum Wind Speed
+   - Five-Year Total Precipitation
+   - Five-Year Minimum Precipitation
+   - Five-Year Maximum Precipitation
 
 
 A second class and a database is created that will be used to store the data.
